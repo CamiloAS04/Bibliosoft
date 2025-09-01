@@ -34,15 +34,7 @@ This process resulted in the following entities:
 
 ---
 
-## 4. Relational Model
-
-*(Here you should insert a screenshot of your relational model diagram)*
-
-
-
----
-
-## 5. Project Setup and Execution
+## 4. Project Setup and Execution
 
 Follow these steps to run the project on your local machine.
 
@@ -93,7 +85,7 @@ Follow these steps to run the project on your local machine.
 
 ---
 
-## 6. Bulk Data Loading from CSV
+## 5. Bulk Data Loading from CSV
 
 The system includes a script to perform a one-time bulk load of data from the provided CSV file into the normalized database tables.
 
@@ -108,7 +100,7 @@ The system includes a script to perform a one-time bulk load of data from the pr
 
 ---
 
-## 7. Advanced Queries Explained
+## 6. Advanced Queries Explained
 
 The API provides three advanced endpoints to address specific business needs.
 
@@ -126,14 +118,14 @@ The API provides three advanced endpoints to address specific business needs.
 
 ---
 
-## 8. Postman Collection
+## 7. Postman Collection
 
 A Postman collection named `library.postman_collection.json` is included in the root of this repository. It contains pre-configured requests for all CRUD endpoints and the three advanced queries, allowing for easy API testing.
 
 ---
 
-## 9. Developer
+## 8. Developer
 
-- **Name:** [Your Full Name]
-- **Clan:** [Your Clan Name]
-- **Email:** [Your Email]
+- **Name:** Juan Camilo Alvarez Sanchez
+- **Clan:** Van rossum
+- **Email:** camiloalvarezsan04@gmail.com
